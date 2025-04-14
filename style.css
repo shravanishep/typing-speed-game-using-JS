@@ -1,0 +1,52 @@
+.container{
+    background-color: darkslategray;
+    text-align: center;
+    color: antiquewhite;
+    width: 90%;
+    max-width: 900px;
+    height: auto;
+    padding: 20px;
+    border: solid black 10px;
+    border-radius: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 40px auto;
+}
+
+#takinginput{
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    font-size: larger;
+    border: solid rgb(6, 46, 10) 3px;
+    border-radius: 10px;
+    height: 400px;
+    width: 500px;
+}
+
+
+.info{
+    opacity: 500%;
+    font-size-adjust: inherit;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+
+}
+
+#restartbtn{
+    font-size: larger;
+    padding: 1%;
+    margin: 1%;
+    border: solid rgb(6, 46, 10) 3px;
+    border-radius: 10px;
+    background-color: brown;
+    text-align: center;
+
+}
+
+
+#restartbtn:hover {
+    background-color: darkred;
+    color: white;
+    cursor: pointer;
+  }
